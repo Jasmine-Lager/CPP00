@@ -1,13 +1,13 @@
 
-NAME		= my_awesome_phonebook
-CC			= c++
-FLAGS		= -Wall -Wextra -Werror -std=c++98
+NAME = my_awesome_phonebook
+CC = c++
+FLAGS = -Wall -Wextra -Werror -std=c++98
 
-SRCS		= main.cpp \
-			  Contact.cpp \
-			  PhoneBook.cpp
+SRCS	= main.cpp \
+		Contact.cpp \
+		PhoneBook.cpp
 
-OBJS		= $(SRCS:.cpp=.o)
+OBJS = $(SRCS:.cpp=.o)
 
 all: $(NAME)
 
