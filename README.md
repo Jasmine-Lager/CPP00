@@ -25,7 +25,5 @@ This is my first interaction with C++, therefore I am trying to keep to my C hab
 - [cplusplus.com | header <iomanip>](https://cplusplus.com/reference/iomanip/) - explains some usable functions
 - [cplusplus.com | class std::string](https://cplusplus.com/reference/string/string/) - more usable recources
 
-These two were given to us in the subject
-
 ### AI Usage
 - Concept clarification: I had Claude give examples for functions from cplusplus.com and explain what `std::` is
