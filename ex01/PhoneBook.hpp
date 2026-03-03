@@ -19,9 +19,9 @@ class PhoneBook
 		PhoneBook(void);
 		~PhoneBook(void);
 
-	void add_contact(void);		// ADD command
-	void search_contact(void);	// SEARCH command
-	void display_list(void);	// helper for formatting columns
+		void add_contact(void);		// ADD command
+		void search_contact(void);	// SEARCH command
+		void display_list(void);	// helper for formatting columns
 };
 
 #endif
