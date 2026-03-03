@@ -1,4 +1,4 @@
-# Project Name
+# CPP00 📞
 *This project has been created as part of the 42 curriculum by jlager*
 
 ## Discription
@@ -10,7 +10,7 @@ This is my first interaction with C++, therefore I am trying to keep to my C hab
 
 ## Instructions
 ...as usual: 
-**Available commands:**
+**Available commands for each excercise:**
 - `make` - Compile the project
 - `make clean` - Remove object files
 - `make fclean` - Remove objects and executable
@@ -18,7 +18,7 @@ This is my first interaction with C++, therefore I am trying to keep to my C hab
 
 **Execution:**
 ```bash
-./[executable-name]
+./[executable-name] [arguments]
 ```
 
 ## Resources
@@ -28,6 +28,4 @@ This is my first interaction with C++, therefore I am trying to keep to my C hab
 These two were given to us in the subject
 
 ### AI Usage
-- Concept clarification: I had Gemini give examples for functions from cplusplus.com and explain what `std::` is
-
-**Note:** All code implementation and logic was written independently. AI was used as a learning and debugging assistant.
+- Concept clarification: I had Claude give examples for functions from cplusplus.com and explain what `std::` is
